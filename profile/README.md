@@ -1,6 +1,6 @@
 # LITEC Courses
 
-This GitHub organization hosts teaching materials, course templates, and shared tools for [LITEC](https://www.litec.ac.at/).
+This GitHub organization hosts teaching materials, course templates, and shared tools for [LiTec](https://www.litec.ac.at/).
 
 ## Public projects
 
