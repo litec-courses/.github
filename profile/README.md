@@ -12,9 +12,3 @@ This GitHub organization hosts teaching materials, course templates, and shared 
 Course repositories are private. They may contain internal notes, assignments, exams, and solutions.
 
 Published course websites contain only explicitly approved materials. Speaker notes are excluded from GitHub Pages builds.
-
-## Principles
-
-- Teaching materials and exercises are often written in German.
-- Code examples use English identifiers.
-- Shared tooling is versioned and updated deliberately.
