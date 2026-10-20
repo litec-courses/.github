@@ -12,3 +12,7 @@ This GitHub organization hosts teaching materials, course templates, and shared 
 Course repositories are private. They may contain internal notes, assignments, exams, and solutions.
 
 Published course websites contain only explicitly approved materials. Speaker notes are excluded from GitHub Pages builds.
+
+## Public Pages
+
+The published courses overview can be found under [litec-courses @ github pages](https://litec-courses.github.io).
